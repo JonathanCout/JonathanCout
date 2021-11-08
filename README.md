@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning Javascript, HTML, CSS, Typescript, Java and more
-- 😄 Pronouns: he/him/his
 
  <div>
   <a href="https://github.com/JonathanCout">
