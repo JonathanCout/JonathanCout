@@ -1,7 +1,8 @@
 ### Hi there! Jonathan here 👋
 
 
-- 🌱 I’m currently learning Javascript, HTML, CSS, Typescript, Java and more
+- 🌱 I’m currently focusing on Java and Spring;
+- 🌱 Previously worked with JavaScript, HTML/CSS, React and others technologies
 
  <div>
   <a href="https://github.com/JonathanCout">
